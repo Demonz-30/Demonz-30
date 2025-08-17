@@ -42,7 +42,7 @@ Selamat datang di ROADMAP Demonz, proyek digital yang merangkum perjalanan bisni
 
 ## 🌐 Live Website
 
-👉 [Klik di sini untuk lihat roadmap versi web](https://Demonz30.github.io/roadmap-demonz/)
+👉 [Klik di sini untuk lihat roadmap versi web](https://demonz-30.github.io/ROADMAP-2030-DEMONZ/)
 
 ---
 
