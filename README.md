@@ -1,53 +1,77 @@
-# DEMONZ
+# DEMONZDEV // SYSTEM PROFILE
 
-Agentic AI · Software Development · Creative Technology
+**Creative Technologist & Product Engineer**
 
-Software developer and creative builder focused on cross-platform applications, modern web systems, and autonomous agent workflows.
+```text
+[ NAME    ]  DEMONZDEV
+[ FOCUS   ]  Web, apps, automation, and creative technology
+[ CURRENT ]  FINORA — offline-first financial management
+```
 
-## What I Build
+## IDENTITY
 
-- **Agentic AI**: Developing autonomous workflows and task automation pipelines.
-- **Flutter Applications**: Crafting responsive cross-platform mobile apps with offline-first architecture.
-- **Web Development**: Building modern web platforms with Next.js, React, and TypeScript.
-- **Backend / Cloud Systems**: Integrating local-first persistence, cloud datastores, and edge infrastructure.
-- **Creative Technology**: Creating interactive WebGL experiences, 3D scenes, and kinetic UI motion.
+I work across web platforms, cross-platform apps, agentic AI workflows, and creative technology. The goal is simple: take an idea, make it work, and shape it into a product.
 
-## Current Focus
+## OPERATING DOMAINS
 
-Developing **FINORA**, an offline-first financial management application focused on structured expense tracking, budgeting workflows, and reliable local state synchronization.
+| DOMAIN | DIRECTION |
+| :--- | :--- |
+| **Web** | Modern web platforms |
+| **Mobile** | Cross-platform apps and offline-first builds |
+| **AI / Automation** | Agentic workflows and task automation |
+| **Creative Technology** | WebGL, 3D, and motion |
 
-## Featured Projects
+## SELECTED BUILDS
 
-- [FINORA](https://github.com/Demonz-30/FINORA)  
-  Offline-first financial management application built with Flutter, SQLite, and Supabase.
-- [DEMONZDEV Portfolio](https://github.com/Demonz-30/demonzdev-portofolio)  
-  Digital portfolio and creative archive built with Next.js, React, TypeScript, Tailwind CSS, GSAP, and Three.js. Live at [demonz-portfolio.pages.dev](https://demonz-portfolio.pages.dev).
-- [demonz-coffee-website](https://github.com/Demonz-30/demonz-coffee-website)  
-  Commercial website and digital presence for Demonz Coffee, showcasing product identity and brand storytelling.
+### [FINORA](https://github.com/Demonz-30/FINORA)
 
-## Tech Stack
+An offline-first financial management application for structured expense tracking and budgeting. Its core direction is reliable local state synchronization across the product.
 
-- **Application:** Flutter, Dart
-- **Web:** Next.js, React, TypeScript, Tailwind CSS
-- **Backend / Database:** Supabase, PostgreSQL, SQLite
-- **Cloud / Infrastructure:** Cloudflare, Git
-- **AI & Automation:** Agentic AI workflows
-- **Creative Technology:** Three.js, React Three Fiber, GSAP
+`Flutter` `SQLite` `Supabase`
 
-## Philosophy
+### [DEMONZDEV Portfolio](https://github.com/Demonz-30/demonzdev-portofolio)
 
-Build → Test → Iterate → Ship.
+A digital portfolio and creative archive that uses interactive presentation, 3D, and motion to show the work. It is a practical meeting point between a web product and a visual system.
 
-I focus on clean architecture, practical solutions, and software that solves real problems.
+`Next.js` `React` `TypeScript` `Tailwind CSS` `GSAP` `Three.js`
 
-## Currently Exploring
+[Live interface → demonz-portfolio.pages.dev](https://demonz-portfolio.pages.dev)
 
-- Agentic AI workflows and autonomous execution patterns
-- Offline-first synchronization architectures
+### [Demonz Coffee](https://github.com/Demonz-30/demonz-coffee-website)
 
-## Contact / Portfolio
+A commercial website and digital presence for Demonz Coffee. The build applies web development to product identity and brand storytelling.
 
-- Portfolio: [https://demonz-portfolio.pages.dev](https://demonz-portfolio.pages.dev)
-- Linktree: [https://linktr.ee/Demonz30](https://linktr.ee/Demonz30)
-- Instagram: [https://www.instagram.com/xynzz_demonz](https://www.instagram.com/xynzz_demonz)
-- TikTok: [https://www.tiktok.com/@xynzz_demonz](https://www.tiktok.com/@xynzz_demonz)
+## TOOLCHAIN
+
+```text
+APPLICATION       Flutter · Dart
+WEB               Next.js · React · TypeScript · Tailwind CSS
+BACKEND / DATA    Supabase · PostgreSQL · SQLite
+CLOUD / DELIVERY  Cloudflare · Git
+AI / AUTOMATION   Agentic AI workflows
+CREATIVE          Three.js · React Three Fiber · GSAP
+```
+
+## BUILD LOG
+
+- Building real products, starting with **FINORA** and its offline-first foundation.
+- Testing ideas through working software rather than leaving them at the concept stage.
+- Exploring agentic AI workflows and autonomous execution patterns.
+- Combining engineering with visual and creative systems.
+
+## PRINCIPLES
+
+```text
+BUILD → TEST → ITERATE → SHIP
+```
+
+Make the idea real, test it in software, then give it another pass.
+
+## EXTERNAL INTERFACES
+
+- **Portfolio** — [demonz-portfolio.pages.dev](https://demonz-portfolio.pages.dev)
+- **GitHub** — [Demonz-30](https://github.com/Demonz-30)
+
+## CLOSING
+
+I don't just write code. I turn ideas into products.
