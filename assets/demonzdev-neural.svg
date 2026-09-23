@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">DEMONZDEV Neural System</title>
+  <desc id="desc">Animated neural network identity for DEMONZDEV.</desc>
+
+  <defs>
+    <radialGradient id="atmosphere" cx="50%" cy="50%" r="70%">
+      <stop offset="0" stop-color="#18052d" stop-opacity="0.9" />
+      <stop offset="0.55" stop-color="#0b0315" stop-opacity="0.45" />
+      <stop offset="1" stop-color="#030204" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="edgeGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7000FF" stop-opacity="0.32" />
+      <stop offset="0.5" stop-color="#9B4DFF" stop-opacity="0.78" />
+      <stop offset="1" stop-color="#7000FF" stop-opacity="0.28" />
+    </linearGradient>
+    <pattern id="microGrid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#b98cff" stroke-opacity="0.045" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="500" fill="#030204" />
+  <rect width="1200" height="500" fill="url(#atmosphere)" />
+  <rect width="1200" height="500" fill="url(#microGrid)" />
+
+  <g fill="#9B4DFF" opacity="0.28">
+    <circle cx="90" cy="70" r="1.5"><animate attributeName="opacity" values="0.15;0.5;0.15" dur="4s" repeatCount="indefinite" /></circle>
+    <circle cx="1110" cy="150" r="1.5"><animate attributeName="opacity" values="0.5;0.12;0.5" dur="5s" repeatCount="indefinite" /></circle>
+    <circle cx="680" cy="56" r="1"><animate attributeName="opacity" values="0.1;0.4;0.1" dur="3.5s" repeatCount="indefinite" /></circle>
+    <circle cx="520" cy="450" r="1.5"><animate attributeName="opacity" values="0.4;0.1;0.4" dur="4.5s" repeatCount="indefinite" /></circle>
+  </g>
+
+  <g fill="none" stroke-linecap="round">
+    <path id="edge01" d="M100 120 C155 105 175 85 230 70" stroke="url(#edgeGradient)" stroke-width="1.5" />
+    <path id="edge02" d="M230 70 C280 90 305 120 350 145" stroke="url(#edgeGradient)" stroke-width="1.5" />
+    <path id="edge03" d="M100 120 C105 195 125 260 145 320" stroke="url(#edgeGradient)" stroke-width="1.5" />
+    <path id="edge04" d="M145 320 C195 335 245 370 290 390" stroke="url(#edgeGradient)" stroke-width="1.5" />
+    <path id="edge05" d="M350 145 C375 130 395 120 420 115" stroke="url(#edgeGradient)" stroke-width="1.5" />
+    <path id="edge06" d="M350 145 C375 220 405 285 430 350" stroke="url(#edgeGradient)" stroke-width="1.5" />
+    <path id="edge07" d="M420 115 C535 95 660 95 780 115" stroke="url(#edgeGradient)" stroke-width="1.5" />
+    <path id="edge08" d="M780 115 C810 135 830 160 850 185" stroke="url(#edgeGradient)" stroke-width="1.5" />
+    <path id="edge09" d="M780 115 C870 100 950 85 1050 90" stroke="url(#edgeGradient)" stroke-width="1.5" />
+    <path id="edge10" d="M1050 90 C1075 155 1080 225 1080 310" stroke="url(#edgeGradient)" stroke-width="1.5" />
+    <path id="edge11" d="M850 185 C930 205 1015 255 1080 310" stroke="url(#edgeGradient)" stroke-width="1.5" />
+    <path id="edge12" d="M1080 310 C1030 350 980 380 920 400" stroke="url(#edgeGradient)" stroke-width="1.5" />
+    <path id="edge13" d="M920 400 C865 385 820 365 780 350" stroke="url(#edgeGradient)" stroke-width="1.5" />
+    <path id="edge14" d="M780 350 C670 370 550 370 430 350" stroke="url(#edgeGradient)" stroke-width="1.5" />
+    <path id="edge15" d="M430 350 C400 365 340 380 290 390" stroke="url(#edgeGradient)" stroke-width="1.5" />
+    <path id="edge16" d="M430 350 C500 305 560 280 620 275" stroke="url(#edgeGradient)" stroke-width="1.5" opacity="0.52" />
+    <path id="edge17" d="M620 275 C680 245 720 195 780 115" stroke="url(#edgeGradient)" stroke-width="1.5" opacity="0.52" />
+  </g>
+
+  <g fill="#7000FF" opacity="0.24">
+    <circle cx="100" cy="120" r="10"><animate attributeName="r" values="8;12;8" dur="3.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.12;0.3;0.12" dur="3.8s" repeatCount="indefinite" /></circle>
+    <circle cx="230" cy="70" r="9"><animate attributeName="r" values="7;11;7" dur="4.4s" begin="0.4s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.1;0.28;0.1" dur="4.4s" begin="0.4s" repeatCount="indefinite" /></circle>
+    <circle cx="350" cy="145" r="10"><animate attributeName="r" values="8;12;8" dur="3.5s" begin="0.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.12;0.3;0.12" dur="3.5s" begin="0.9s" repeatCount="indefinite" /></circle>
+    <circle cx="145" cy="320" r="9"><animate attributeName="r" values="7;11;7" dur="4.1s" begin="0.2s" repeatCount="indefinite" /></circle>
+    <circle cx="290" cy="390" r="10"><animate attributeName="r" values="8;12;8" dur="3.7s" begin="1.1s" repeatCount="indefinite" /></circle>
+    <circle cx="420" cy="115" r="9"><animate attributeName="r" values="7;11;7" dur="4.7s" begin="0.7s" repeatCount="indefinite" /></circle>
+    <circle cx="780" cy="115" r="10"><animate attributeName="r" values="8;12;8" dur="3.9s" begin="0.5s" repeatCount="indefinite" /></circle>
+    <circle cx="850" cy="185" r="9"><animate attributeName="r" values="7;11;7" dur="4.2s" begin="1.2s" repeatCount="indefinite" /></circle>
+    <circle cx="1050" cy="90" r="10"><animate attributeName="r" values="8;12;8" dur="3.6s" begin="0.3s" repeatCount="indefinite" /></circle>
+    <circle cx="1080" cy="310" r="9"><animate attributeName="r" values="7;11;7" dur="4.5s" begin="0.8s" repeatCount="indefinite" /></circle>
+    <circle cx="920" cy="400" r="10"><animate attributeName="r" values="8;12;8" dur="3.8s" begin="1s" repeatCount="indefinite" /></circle>
+    <circle cx="780" cy="350" r="9"><animate attributeName="r" values="7;11;7" dur="4.3s" begin="0.6s" repeatCount="indefinite" /></circle>
+    <circle cx="430" cy="350" r="10"><animate attributeName="r" values="8;12;8" dur="3.9s" begin="1.4s" repeatCount="indefinite" /></circle>
+  </g>
+
+  <g fill="#d9c2ff">
+    <circle cx="100" cy="120" r="3.5" />
+    <circle cx="230" cy="70" r="3.5" />
+    <circle cx="350" cy="145" r="3.5" />
+    <circle cx="145" cy="320" r="3.5" />
+    <circle cx="290" cy="390" r="3.5" />
+    <circle cx="420" cy="115" r="3.5" />
+    <circle cx="780" cy="115" r="3.5" />
+    <circle cx="850" cy="185" r="3.5" />
+    <circle cx="1050" cy="90" r="3.5" />
+    <circle cx="1080" cy="310" r="3.5" />
+    <circle cx="920" cy="400" r="3.5" />
+    <circle cx="780" cy="350" r="3.5" />
+    <circle cx="430" cy="350" r="3.5" />
+  </g>
+
+  <g fill="#ffffff" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace">
+    <text x="600" y="228" text-anchor="middle" font-size="56" font-weight="700" letter-spacing="5">DEMONZDEV</text>
+    <text x="600" y="268" text-anchor="middle" fill="#b8b0c4" font-size="16" letter-spacing="2">CREATIVE TECHNOLOGIST &amp; PRODUCT ENGINEER</text>
+  </g>
+
+  <g fill="#9B4DFF" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="15" letter-spacing="2">
+    <text x="75" y="455">WEB</text>
+    <text x="180" y="455">MOBILE</text>
+    <text x="315" y="455">AI</text>
+    <text x="770" y="455">CREATIVE TECHNOLOGY</text>
+  </g>
+
+  <g fill="#ffffff" opacity="1">
+    <circle r="4">
+      <animateMotion dur="5s" repeatCount="indefinite"><mpath xlink:href="#edge01" /></animateMotion>
+    </circle>
+    <circle r="4">
+      <animateMotion dur="6.5s" begin="1.4s" repeatCount="indefinite"><mpath xlink:href="#edge06" /></animateMotion>
+    </circle>
+    <circle r="4">
+      <animateMotion dur="7s" begin="0.7s" repeatCount="indefinite"><mpath xlink:href="#edge07" /></animateMotion>
+    </circle>
+    <circle r="4">
+      <animateMotion dur="5.8s" begin="2s" repeatCount="indefinite"><mpath xlink:href="#edge09" /></animateMotion>
+    </circle>
+    <circle r="4">
+      <animateMotion dur="6.2s" begin="0.5s" repeatCount="indefinite"><mpath xlink:href="#edge11" /></animateMotion>
+    </circle>
+    <circle r="4">
+      <animateMotion dur="5.4s" begin="1.8s" repeatCount="indefinite"><mpath xlink:href="#edge14" /></animateMotion>
+    </circle>
+    <circle r="4">
+      <animateMotion dur="7.2s" begin="2.5s" repeatCount="indefinite"><mpath xlink:href="#edge15" /></animateMotion>
+    </circle>
+  </g>
+</svg>
