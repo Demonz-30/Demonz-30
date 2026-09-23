@@ -49,17 +49,26 @@
 
 <div>
   <code>WEB</code><br />
-  Next.js · React · TypeScript · Tailwind CSS<br /><br />
+  <img src="./assets/tech-icons/nextjs.svg" width="16" height="16" alt="Next.js" /> Next.js &nbsp;
+  <img src="./assets/tech-icons/react.svg" width="16" height="16" alt="React" /> React &nbsp;
+  <img src="./assets/tech-icons/typescript.svg" width="16" height="16" alt="TypeScript" /> TypeScript &nbsp;
+  <img src="./assets/tech-icons/tailwind.svg" width="16" height="16" alt="Tailwind CSS" /> Tailwind CSS<br /><br />
   <code>MOBILE</code><br />
-  Flutter · Dart<br /><br />
+  <img src="./assets/tech-icons/flutter.svg" width="16" height="16" alt="Flutter" /> Flutter &nbsp;
+  <img src="./assets/tech-icons/dart.svg" width="16" height="16" alt="Dart" /> Dart<br /><br />
   <code>DATA / BACKEND</code><br />
-  PostgreSQL · Supabase · SQLite<br /><br />
+  <img src="./assets/tech-icons/postgresql.svg" width="16" height="16" alt="PostgreSQL" /> PostgreSQL &nbsp;
+  <img src="./assets/tech-icons/supabase.svg" width="16" height="16" alt="Supabase" /> Supabase &nbsp;
+  <img src="./assets/tech-icons/sqlite.svg" width="16" height="16" alt="SQLite" /> SQLite<br /><br />
   <code>INFRASTRUCTURE</code><br />
-  Git · Cloudflare<br /><br />
+  <img src="./assets/tech-icons/git.svg" width="16" height="16" alt="Git" /> Git &nbsp;
+  <img src="./assets/tech-icons/cloudflare.svg" width="16" height="16" alt="Cloudflare" /> Cloudflare<br /><br />
   <code>CREATIVE TECHNOLOGY</code><br />
-  Three.js · React Three Fiber · GSAP<br /><br />
+  <img src="./assets/tech-icons/threejs.svg" width="16" height="16" alt="Three.js" /> Three.js &nbsp;
+  <img src="./assets/tech-icons/react.svg" width="16" height="16" alt="React Three Fiber" /> React Three Fiber &nbsp;
+  <img src="./assets/tech-icons/gsap.svg" width="16" height="16" alt="GSAP" /> GSAP<br /><br />
   <code>AI / AUTOMATION</code><br />
-  Agentic AI / Automation
+  <img src="./assets/tech-icons/agentic-ai.svg" width="16" height="16" alt="Agentic AI / Automation" /> Agentic AI / Automation
 </div>
 
 ## <code>BUILD SYSTEM</code>
