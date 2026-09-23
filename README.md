@@ -43,6 +43,10 @@
 
 ## <code>TECHNOLOGY</code>
 
+<div align="center">
+  <img src="./assets/demonzdev-tech.svg" width="100%" alt="Animated DEMONZDEV technology system" />
+</div>
+
 <div>
   <code>WEB</code><br />
   Next.js · React · TypeScript · Tailwind CSS<br /><br />
@@ -66,6 +70,10 @@
 </p>
 
 ## <code>ACTIVITY</code>
+
+<div align="center">
+  <img src="./assets/demonzdev-activity.svg" width="100%" alt="Animated DEMONZDEV build signal" />
+</div>
 
 <sub>ACTIVITY LOG</sub><br />
 Building in public, one system at a time.

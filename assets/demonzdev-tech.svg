@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">DEMONZDEV Technology System</title>
+  <desc id="desc">Animated technology icon strip for Next.js, React, TypeScript, Tailwind CSS, Flutter, Dart, PostgreSQL, Supabase, SQLite, Three.js, Git, and Cloudflare.</desc>
+
+  <defs>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7000FF" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#9B4DFF" stop-opacity="0.8" />
+      <stop offset="1" stop-color="#7000FF" stop-opacity="0" />
+    </linearGradient>
+    <path id="signalTop" d="M44 86 H1156" />
+    <path id="signalBottom" d="M44 178 H1156" />
+  </defs>
+
+  <g fill="none" stroke="#7000FF" stroke-width="1" opacity="0.35">
+    <use xlink:href="#signalTop" />
+    <use xlink:href="#signalBottom" />
+  </g>
+
+  <g fill="#9B4DFF" opacity="0.8">
+    <circle r="2.5">
+      <animateMotion dur="7s" repeatCount="indefinite"><mpath xlink:href="#signalTop" /></animateMotion>
+    </circle>
+    <circle r="2.5">
+      <animateMotion dur="7s" begin="2.8s" repeatCount="indefinite"><mpath xlink:href="#signalBottom" /></animateMotion>
+    </circle>
+  </g>
+
+  <g font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" text-anchor="middle">
+    <g transform="translate(20 12)" opacity="0.8">
+      <rect width="170" height="68" rx="4" fill="#0b0612" stroke="#7000FF" stroke-opacity="0.45" />
+      <text x="85" y="37" fill="#ffffff" font-size="25" font-weight="700">N</text>
+      <text x="85" y="58" fill="#9B4DFF" font-size="10" letter-spacing="1">NEXT.JS</text>
+      <animate attributeName="opacity" values="0.62;1;0.62" dur="5s" repeatCount="indefinite" />
+    </g>
+    <g transform="translate(210 12)" opacity="0.8">
+      <rect width="170" height="68" rx="4" fill="#0b0612" stroke="#7000FF" stroke-opacity="0.45" />
+      <circle cx="85" cy="32" r="11" fill="none" stroke="#ffffff" stroke-width="1.5" />
+      <ellipse cx="85" cy="32" rx="22" ry="9" fill="none" stroke="#ffffff" stroke-width="1.3" transform="rotate(60 85 32)" />
+      <ellipse cx="85" cy="32" rx="22" ry="9" fill="none" stroke="#ffffff" stroke-width="1.3" transform="rotate(-60 85 32)" />
+      <circle cx="85" cy="32" r="2.5" fill="#9B4DFF" />
+      <text x="85" y="58" fill="#9B4DFF" font-size="10" letter-spacing="1">REACT</text>
+      <animate attributeName="opacity" values="0.62;1;0.62" dur="5s" begin="0.35s" repeatCount="indefinite" />
+    </g>
+    <g transform="translate(400 12)" opacity="0.8">
+      <rect width="170" height="68" rx="4" fill="#0b0612" stroke="#7000FF" stroke-opacity="0.45" />
+      <text x="85" y="40" fill="#ffffff" font-size="22" font-weight="700">TS</text>
+      <text x="85" y="58" fill="#9B4DFF" font-size="10" letter-spacing="1">TYPESCRIPT</text>
+      <animate attributeName="opacity" values="0.62;1;0.62" dur="5s" begin="0.7s" repeatCount="indefinite" />
+    </g>
+    <g transform="translate(590 12)" opacity="0.8">
+      <rect width="170" height="68" rx="4" fill="#0b0612" stroke="#7000FF" stroke-opacity="0.45" />
+      <text x="85" y="40" fill="#ffffff" font-size="22" font-weight="700">TW</text>
+      <text x="85" y="58" fill="#9B4DFF" font-size="10" letter-spacing="1">TAILWIND CSS</text>
+      <animate attributeName="opacity" values="0.62;1;0.62" dur="5s" begin="1.05s" repeatCount="indefinite" />
+    </g>
+    <g transform="translate(780 12)" opacity="0.8">
+      <rect width="170" height="68" rx="4" fill="#0b0612" stroke="#7000FF" stroke-opacity="0.45" />
+      <path d="M85 19 L101 29 L96 49 L74 49 L69 29 Z" fill="none" stroke="#ffffff" stroke-width="2" />
+      <path d="M85 19 L85 49 M69 29 L96 49 M101 29 L74 49" fill="none" stroke="#9B4DFF" stroke-width="1" />
+      <text x="85" y="65" fill="#9B4DFF" font-size="10" letter-spacing="1">FLUTTER</text>
+      <animate attributeName="opacity" values="0.62;1;0.62" dur="5s" begin="1.4s" repeatCount="indefinite" />
+    </g>
+    <g transform="translate(970 12)" opacity="0.8">
+      <rect width="170" height="68" rx="4" fill="#0b0612" stroke="#7000FF" stroke-opacity="0.45" />
+      <text x="85" y="40" fill="#ffffff" font-size="22" font-weight="700">D</text>
+      <text x="85" y="58" fill="#9B4DFF" font-size="10" letter-spacing="1">DART</text>
+      <animate attributeName="opacity" values="0.62;1;0.62" dur="5s" begin="1.75s" repeatCount="indefinite" />
+    </g>
+
+    <g transform="translate(20 104)" opacity="0.8">
+      <rect width="170" height="68" rx="4" fill="#0b0612" stroke="#7000FF" stroke-opacity="0.45" />
+      <text x="85" y="40" fill="#ffffff" font-size="21" font-weight="700">PG</text>
+      <text x="85" y="58" fill="#9B4DFF" font-size="10" letter-spacing="1">POSTGRESQL</text>
+      <animate attributeName="opacity" values="0.62;1;0.62" dur="5s" begin="2.1s" repeatCount="indefinite" />
+    </g>
+    <g transform="translate(210 104)" opacity="0.8">
+      <rect width="170" height="68" rx="4" fill="#0b0612" stroke="#7000FF" stroke-opacity="0.45" />
+      <text x="85" y="40" fill="#ffffff" font-size="20" font-weight="700">SB</text>
+      <text x="85" y="58" fill="#9B4DFF" font-size="10" letter-spacing="1">SUPABASE</text>
+      <animate attributeName="opacity" values="0.62;1;0.62" dur="5s" begin="2.45s" repeatCount="indefinite" />
+    </g>
+    <g transform="translate(400 104)" opacity="0.8">
+      <rect width="170" height="68" rx="4" fill="#0b0612" stroke="#7000FF" stroke-opacity="0.45" />
+      <text x="85" y="40" fill="#ffffff" font-size="20" font-weight="700">SQL</text>
+      <text x="85" y="58" fill="#9B4DFF" font-size="10" letter-spacing="1">SQLITE</text>
+      <animate attributeName="opacity" values="0.62;1;0.62" dur="5s" begin="2.8s" repeatCount="indefinite" />
+    </g>
+    <g transform="translate(590 104)" opacity="0.8">
+      <rect width="170" height="68" rx="4" fill="#0b0612" stroke="#7000FF" stroke-opacity="0.45" />
+      <circle cx="85" cy="32" r="13" fill="none" stroke="#ffffff" stroke-width="1.5" />
+      <path d="M72 32 H98 M85 19 V45" stroke="#9B4DFF" stroke-width="1.5" />
+      <text x="85" y="58" fill="#9B4DFF" font-size="10" letter-spacing="1">THREE.JS</text>
+      <animate attributeName="opacity" values="0.62;1;0.62" dur="5s" begin="3.15s" repeatCount="indefinite" />
+    </g>
+    <g transform="translate(780 104)" opacity="0.8">
+      <rect width="170" height="68" rx="4" fill="#0b0612" stroke="#7000FF" stroke-opacity="0.45" />
+      <text x="85" y="40" fill="#ffffff" font-size="22" font-weight="700">&lt;/&gt;</text>
+      <text x="85" y="58" fill="#9B4DFF" font-size="10" letter-spacing="1">GIT</text>
+      <animate attributeName="opacity" values="0.62;1;0.62" dur="5s" begin="3.5s" repeatCount="indefinite" />
+    </g>
+    <g transform="translate(970 104)" opacity="0.8">
+      <rect width="170" height="68" rx="4" fill="#0b0612" stroke="#7000FF" stroke-opacity="0.45" />
+      <path d="M72 31 C72 23 80 20 85 25 C90 20 98 23 98 31 C98 39 90 44 85 48 C80 44 72 39 72 31 Z" fill="none" stroke="#ffffff" stroke-width="1.8" />
+      <text x="85" y="58" fill="#9B4DFF" font-size="10" letter-spacing="1">CLOUDFLARE</text>
+      <animate attributeName="opacity" values="0.62;1;0.62" dur="5s" begin="3.85s" repeatCount="indefinite" />
+    </g>
+  </g>
+</svg>
