@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">DEMONZDEV System Profile</title>
+  <desc id="desc">DEMONZDEV, Creative Technologist and Product Engineer. Web, Mobile, AI, Creative Technology.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#202522" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="8" fill="#0b0d0c" />
+  <rect x="1" y="1" width="1198" height="358" rx="7" fill="url(#grid)" stroke="#303632" />
+  <rect x="0" y="0" width="8" height="360" fill="#39d353" />
+
+  <g fill="#8b958d" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="14" letter-spacing="1">
+    <text x="56" y="48">DEMONZDEV // SYSTEM PROFILE</text>
+    <text x="1040" y="48">[01]</text>
+    <text x="56" y="312">CREATIVE TECHNOLOGY / PRODUCT ENGINEERING</text>
+  </g>
+
+  <g fill="#f2f5f2" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace">
+    <text x="56" y="150" font-size="64" font-weight="700" letter-spacing="3">DEMONZDEV</text>
+    <text x="60" y="194" font-size="20" letter-spacing="2">CREATIVE TECHNOLOGIST &amp; PRODUCT ENGINEER</text>
+  </g>
+
+  <g fill="#39d353" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="16" letter-spacing="2">
+    <text x="60" y="248">WEB · MOBILE · AI · CREATIVE TECHNOLOGY</text>
+  </g>
+
+  <g stroke="#39d353" stroke-width="2">
+    <path d="M60 276 H220" />
+    <path d="M980 276 H1140" />
+  </g>
+</svg>

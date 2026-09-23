@@ -1,13 +1,7 @@
 <div align="center">
-
-# DEMONZDEV
-
-**Creative Technologist & Product Engineer**
-
-`Web` · `Mobile` · `AI` · `Creative Technology`
-
-*I turn ideas into working products.*
-
+  <img src="./assets/demonzdev-profile.svg" width="100%" alt="DEMONZDEV System Profile" />
+  <br />
+  <sub>DEMONZDEV // PROFILE</sub>
 </div>
 
 ---
@@ -16,60 +10,69 @@
 
 <table>
   <tr>
-    <td><strong>CURRENT</strong></td>
-    <td>FINORA</td>
+    <td><sub>CURRENT</sub></td>
+    <td><strong>FINORA</strong></td>
   </tr>
   <tr>
-    <td><strong>MODE</strong></td>
+    <td><sub>MODE</sub></td>
     <td>PRODUCT / ENGINEERING</td>
   </tr>
   <tr>
-    <td><strong>FOCUS</strong></td>
+    <td><sub>FOCUS</sub></td>
     <td>WEB · MOBILE · AI · CREATIVE</td>
   </tr>
 </table>
 
 ## SELECTED BUILDS
 
-### [FINORA](https://github.com/Demonz-30/FINORA)
+### 01 / [FINORA](https://github.com/Demonz-30/FINORA)
 
 Offline-first financial management application focused on structured expense tracking and budgeting.
 
-`Flutter` `SQLite` `Supabase`
+<sub>FLUTTER · SQLITE · SUPABASE</sub>
 
 ---
 
-### [DEMONZDEV Portfolio](https://github.com/Demonz-30/demonzdev-portofolio)
+### 02 / [DEMONZDEV PORTFOLIO](https://github.com/Demonz-30/demonzdev-portofolio)
 
 Interactive portfolio and creative system using modern web technologies, 3D, and motion.
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `GSAP` `Three.js`
+<sub>NEXT.JS · REACT · TYPESCRIPT · TAILWIND CSS · GSAP · THREE.JS</sub>
 
 [Live portfolio → demonz-portfolio.pages.dev](https://demonz-portfolio.pages.dev)
 
 ---
 
-### [Demonz Coffee](https://github.com/Demonz-30/demonz-coffee-website)
+### 03 / [DEMONZ COFFEE](https://github.com/Demonz-30/demonz-coffee-website)
 
 Commercial website and digital presence connecting web development with product identity and brand storytelling.
 
-## SKILLSET
+<sub>WEB / DIGITAL PRESENCE</sub>
 
-<p>
+## TECHNOLOGY MATRIX
+
+<p align="center">
+  <sub>APPLICATION / WEB</sub><br />
   <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,typescript,tailwind" alt="Flutter, Dart, Next.js, React, TypeScript, and Tailwind CSS" />
 </p>
-<p>
+
+<p align="center">
+  <sub>DATA / INFRASTRUCTURE</sub><br />
   <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,threejs,git,cloudflare" alt="PostgreSQL, Supabase, SQLite, Three.js, Git, and Cloudflare" />
 </p>
 
-`AGENTIC AI / AUTOMATION`
+<p align="center">
+  <code>AGENTIC AI / AUTOMATION</code>
+  <br />
+  <sub>CREATIVE TECHNOLOGY · REACT THREE FIBER · GSAP</sub>
+</p>
 
-Creative technology: `React Three Fiber` · `GSAP`
+## BUILD SYSTEM
 
-## BUILD PATH
-
-**WEB → MOBILE → PRODUCT SYSTEMS**<br />
-**AI / AUTOMATION → CREATIVE TECHNOLOGY**
+<p align="center">
+  <code>WEB → MOBILE → PRODUCT SYSTEMS</code><br />
+  <code>AI / AUTOMATION → CREATIVE TECHNOLOGY</code>
+</p>
 
 ## ACTIVITY
 
@@ -77,18 +80,22 @@ Building in public, one system at a time.
 
 ## PRINCIPLES
 
-**BUILD → TEST → ITERATE → SHIP**
+<div align="center">
+
+### <code>BUILD → TEST → ITERATE → SHIP</code>
 
 Make the idea real, test it in software, then give it another pass.
+
+</div>
 
 ## EXTERNAL INTERFACES
 
 - **Portfolio** — [demonz-portfolio.pages.dev](https://demonz-portfolio.pages.dev)
 - **GitHub** — [Demonz-30](https://github.com/Demonz-30)
 
----
-
 <div align="center">
+
+---
 
 I don't just write code.<br />
 I turn ideas into products.
