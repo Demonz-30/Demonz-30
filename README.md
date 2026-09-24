@@ -47,48 +47,81 @@
   <img src="./assets/demonzdev-tech.svg" width="100%" alt="Animated DEMONZDEV technology system" />
 </div>
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 18px 20px; border: 1px solid #2a2235;">
       <code>01 / CAPABILITY</code><br />
       <strong>PRODUCT ENGINEERING</strong><br />
       <sub>Web Apps · Mobile Apps<br />Full-Stack Systems · UI Architecture</sub><br /><br />
-      <img src="./assets/tech-icons/nextjs.svg" width="16" height="16" alt="Next.js" /> Next.js &nbsp;
-      <img src="./assets/tech-icons/react.svg" width="16" height="16" alt="React" /> React &nbsp;
-      <img src="./assets/tech-icons/flutter.svg" width="16" height="16" alt="Flutter" /> Flutter<br />
-      <img src="./assets/tech-icons/dart.svg" width="16" height="16" alt="Dart" /> Dart &nbsp;
-      <img src="https://cdn.simpleicons.org/nodedotjs/7000FF" width="16" height="16" alt="Node.js" /> Node.js &nbsp;
-      <img src="./assets/tech-icons/postgresql.svg" width="16" height="16" alt="PostgreSQL" /> PostgreSQL
+      <code>TECH STACK</code><br />
+      <table width="100%" cellspacing="0" cellpadding="8">
+        <tr>
+          <td width="50%" align="center"><img src="./assets/tech-icons/nextjs.svg" width="28" height="28" alt="Next.js" /></td>
+          <td width="50%" align="center"><img src="./assets/tech-icons/react.svg" width="28" height="28" alt="React" /></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="./assets/tech-icons/flutter.svg" width="28" height="28" alt="Flutter" /></td>
+          <td align="center"><img src="./assets/tech-icons/dart.svg" width="28" height="28" alt="Dart" /></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/7000FF" width="28" height="28" alt="Node.js" /></td>
+          <td align="center"><img src="./assets/tech-icons/postgresql.svg" width="28" height="28" alt="PostgreSQL" /></td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 18px 20px; border: 1px solid #2a2235;">
       <code>02 / CAPABILITY</code><br />
       <strong>CREATIVE TECHNOLOGY</strong><br />
       <sub>Creative Coding · WebGL<br />Motion Design · Interactive Experiences</sub><br /><br />
-      <img src="./assets/tech-icons/gsap.svg" width="16" height="16" alt="GSAP" /> GSAP &nbsp;
-      <img src="./assets/tech-icons/threejs.svg" width="16" height="16" alt="Three.js" /> Three.js<br />
-      <img src="https://cdn.simpleicons.org/webgl/7000FF" width="16" height="16" alt="WebGL" /> WebGL &nbsp;
-      <img src="./assets/tech-icons/react.svg" width="16" height="16" alt="React Three Fiber" /> React Three Fiber
+      <code>TECH STACK</code><br />
+      <table width="100%" cellspacing="0" cellpadding="8">
+        <tr>
+          <td width="50%" align="center"><img src="./assets/tech-icons/gsap.svg" width="28" height="28" alt="GSAP" /></td>
+          <td width="50%" align="center"><img src="./assets/tech-icons/threejs.svg" width="28" height="28" alt="Three.js" /></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.simpleicons.org/webgl/7000FF" width="28" height="28" alt="WebGL" /></td>
+          <td align="center"><img src="./assets/tech-icons/react.svg" width="28" height="28" alt="React Three Fiber" /></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 18px 20px; border: 1px solid #2a2235;">
       <code>03 / CAPABILITY</code><br />
       <strong>AI &amp; AUTOMATION</strong><br />
       <sub>Agentic AI · AI Workflows<br />Automation · API Integration</sub><br /><br />
-      <img src="./assets/tech-icons/agentic-ai.svg" width="16" height="16" alt="AI / Agents" /> AI / Agents &nbsp;
-      <img src="https://cdn.simpleicons.org/googlegemini/7000FF" width="16" height="16" alt="Gemini" /> Gemini<br />
-      <img src="https://api.iconify.design/simple-icons:openai.svg?color=%237000FF" width="16" height="16" alt="OpenAI" /> OpenAI &nbsp;
-      <img src="./assets/tech-icons/agentic-ai.svg" width="16" height="16" alt="API Integration and Automation" /> API Integration · Automation
+      <code>TECH STACK</code><br />
+      <table width="100%" cellspacing="0" cellpadding="8">
+        <tr>
+          <td width="50%" align="center"><img src="./assets/tech-icons/agentic-ai.svg" width="28" height="28" alt="AI / Agents" /></td>
+          <td width="50%" align="center"><img src="https://cdn.simpleicons.org/googlegemini/7000FF" width="28" height="28" alt="Gemini" /></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://api.iconify.design/simple-icons:openai.svg?color=%237000FF" width="28" height="28" alt="OpenAI" /></td>
+          <td align="center"><img src="https://api.iconify.design/carbon:api-1.svg?color=%237000FF" width="28" height="28" alt="API Integration" /></td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 18px 20px; border: 1px solid #2a2235;">
       <code>04 / CAPABILITY</code><br />
       <strong>SYSTEMS &amp; TOOLS</strong><br />
       <sub>Development Infrastructure · Version Control<br />Deployment · CLI</sub><br /><br />
-      <img src="./assets/tech-icons/git.svg" width="16" height="16" alt="Git" /> Git &nbsp;
-      <img src="https://cdn.simpleicons.org/github/7000FF" width="16" height="16" alt="GitHub" /> GitHub &nbsp;
-      <img src="./assets/tech-icons/cloudflare.svg" width="16" height="16" alt="Cloudflare" /> Cloudflare<br />
-      <img src="https://cdn.simpleicons.org/linux/7000FF" width="16" height="16" alt="Linux" /> Linux &nbsp;
-      <code>CLI</code>
+      <code>TECH STACK</code><br />
+      <table width="100%" cellspacing="0" cellpadding="8">
+        <tr>
+          <td width="50%" align="center"><img src="./assets/tech-icons/git.svg" width="28" height="28" alt="Git" /></td>
+          <td width="50%" align="center"><img src="https://cdn.simpleicons.org/github/7000FF" width="28" height="28" alt="GitHub" /></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="./assets/tech-icons/cloudflare.svg" width="28" height="28" alt="Cloudflare" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/linux/7000FF" width="28" height="28" alt="Linux" /></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://api.iconify.design/mdi:console.svg?color=%237000FF" width="28" height="28" alt="CLI" /></td>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
