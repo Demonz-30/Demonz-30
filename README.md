@@ -29,7 +29,7 @@
   <strong><a href="https://github.com/Demonz-30/demonzdev-portofolio">DEMONZDEV PORTFOLIO</a></strong><br />
   Interactive portfolio and creative system using modern web technologies, 3D, and motion.<br />
   <sub>NEXT.JS · REACT · TYPESCRIPT · TAILWIND CSS · GSAP · THREE.JS</sub><br />
-  <a href="https://demonz-portfolio.pages.dev">LIVE → demonz-portfolio.pages.dev</a>
+  <a href="https://demonz-30.github.io/demonzdev-portofolio/">LIVE → demonz-30.github.io/demonzdev-portofolio/</a>
 </div>
 
 <hr />
@@ -97,7 +97,7 @@ Building in public, one system at a time.
 ## <code>EXTERNAL INTERFACES</code>
 
 <p>
-  <code>PORTFOLIO</code> — <a href="https://demonz-portfolio.pages.dev">demonz-portfolio.pages.dev</a><br />
+  <code>PORTFOLIO</code> — <a href="https://demonz-30.github.io/demonzdev-portofolio/">demonz-30.github.io/demonzdev-portofolio/</a><br />
   <code>GITHUB</code> — <a href="https://github.com/Demonz-30">Demonz-30</a>
 </p>
 
