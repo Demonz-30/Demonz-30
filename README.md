@@ -47,29 +47,51 @@
   <img src="./assets/demonzdev-tech.svg" width="100%" alt="Animated DEMONZDEV technology system" />
 </div>
 
-<div>
-  <code>WEB</code><br />
-  <img src="./assets/tech-icons/nextjs.svg" width="16" height="16" alt="Next.js" /> Next.js &nbsp;
-  <img src="./assets/tech-icons/react.svg" width="16" height="16" alt="React" /> React &nbsp;
-  <img src="./assets/tech-icons/typescript.svg" width="16" height="16" alt="TypeScript" /> TypeScript &nbsp;
-  <img src="./assets/tech-icons/tailwind.svg" width="16" height="16" alt="Tailwind CSS" /> Tailwind CSS<br /><br />
-  <code>MOBILE</code><br />
-  <img src="./assets/tech-icons/flutter.svg" width="16" height="16" alt="Flutter" /> Flutter &nbsp;
-  <img src="./assets/tech-icons/dart.svg" width="16" height="16" alt="Dart" /> Dart<br /><br />
-  <code>DATA / BACKEND</code><br />
-  <img src="./assets/tech-icons/postgresql.svg" width="16" height="16" alt="PostgreSQL" /> PostgreSQL &nbsp;
-  <img src="./assets/tech-icons/supabase.svg" width="16" height="16" alt="Supabase" /> Supabase &nbsp;
-  <img src="./assets/tech-icons/sqlite.svg" width="16" height="16" alt="SQLite" /> SQLite<br /><br />
-  <code>INFRASTRUCTURE</code><br />
-  <img src="./assets/tech-icons/git.svg" width="16" height="16" alt="Git" /> Git &nbsp;
-  <img src="./assets/tech-icons/cloudflare.svg" width="16" height="16" alt="Cloudflare" /> Cloudflare<br /><br />
-  <code>CREATIVE TECHNOLOGY</code><br />
-  <img src="./assets/tech-icons/threejs.svg" width="16" height="16" alt="Three.js" /> Three.js &nbsp;
-  <img src="./assets/tech-icons/react.svg" width="16" height="16" alt="React Three Fiber" /> React Three Fiber &nbsp;
-  <img src="./assets/tech-icons/gsap.svg" width="16" height="16" alt="GSAP" /> GSAP<br /><br />
-  <code>AI / AUTOMATION</code><br />
-  <img src="./assets/tech-icons/agentic-ai.svg" width="16" height="16" alt="Agentic AI / Automation" /> Agentic AI / Automation
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <code>01 / CAPABILITY</code><br />
+      <strong>PRODUCT ENGINEERING</strong><br />
+      <sub>Web Apps · Mobile Apps<br />Full-Stack Systems · UI Architecture</sub><br /><br />
+      <img src="./assets/tech-icons/nextjs.svg" width="16" height="16" alt="Next.js" /> Next.js &nbsp;
+      <img src="./assets/tech-icons/react.svg" width="16" height="16" alt="React" /> React &nbsp;
+      <img src="./assets/tech-icons/flutter.svg" width="16" height="16" alt="Flutter" /> Flutter<br />
+      <img src="./assets/tech-icons/dart.svg" width="16" height="16" alt="Dart" /> Dart &nbsp;
+      <img src="https://cdn.simpleicons.org/nodedotjs/7000FF" width="16" height="16" alt="Node.js" /> Node.js &nbsp;
+      <img src="./assets/tech-icons/postgresql.svg" width="16" height="16" alt="PostgreSQL" /> PostgreSQL
+    </td>
+    <td width="50%" valign="top">
+      <code>02 / CAPABILITY</code><br />
+      <strong>CREATIVE TECHNOLOGY</strong><br />
+      <sub>Creative Coding · WebGL<br />Motion Design · Interactive Experiences</sub><br /><br />
+      <img src="./assets/tech-icons/gsap.svg" width="16" height="16" alt="GSAP" /> GSAP &nbsp;
+      <img src="./assets/tech-icons/threejs.svg" width="16" height="16" alt="Three.js" /> Three.js<br />
+      <img src="https://cdn.simpleicons.org/webgl/7000FF" width="16" height="16" alt="WebGL" /> WebGL &nbsp;
+      <img src="./assets/tech-icons/react.svg" width="16" height="16" alt="React Three Fiber" /> React Three Fiber
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <code>03 / CAPABILITY</code><br />
+      <strong>AI &amp; AUTOMATION</strong><br />
+      <sub>Agentic AI · AI Workflows<br />Automation · API Integration</sub><br /><br />
+      <img src="./assets/tech-icons/agentic-ai.svg" width="16" height="16" alt="AI / Agents" /> AI / Agents &nbsp;
+      <img src="https://cdn.simpleicons.org/googlegemini/7000FF" width="16" height="16" alt="Gemini" /> Gemini<br />
+      <img src="https://api.iconify.design/simple-icons:openai.svg?color=%237000FF" width="16" height="16" alt="OpenAI" /> OpenAI &nbsp;
+      <img src="./assets/tech-icons/agentic-ai.svg" width="16" height="16" alt="API Integration and Automation" /> API Integration · Automation
+    </td>
+    <td width="50%" valign="top">
+      <code>04 / CAPABILITY</code><br />
+      <strong>SYSTEMS &amp; TOOLS</strong><br />
+      <sub>Development Infrastructure · Version Control<br />Deployment · CLI</sub><br /><br />
+      <img src="./assets/tech-icons/git.svg" width="16" height="16" alt="Git" /> Git &nbsp;
+      <img src="https://cdn.simpleicons.org/github/7000FF" width="16" height="16" alt="GitHub" /> GitHub &nbsp;
+      <img src="./assets/tech-icons/cloudflare.svg" width="16" height="16" alt="Cloudflare" /> Cloudflare<br />
+      <img src="https://cdn.simpleicons.org/linux/7000FF" width="16" height="16" alt="Linux" /> Linux &nbsp;
+      <code>CLI</code>
+    </td>
+  </tr>
+</table>
 
 ## <code>BUILD SYSTEM</code>
 
