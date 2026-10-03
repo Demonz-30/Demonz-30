@@ -86,11 +86,12 @@
     <text x="600" y="268" text-anchor="middle" fill="#b8b0c4" font-size="16" letter-spacing="2">CREATIVE TECHNOLOGIST &amp; PRODUCT ENGINEER</text>
   </g>
 
-  <g fill="#9B4DFF" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="15" letter-spacing="2">
+  <g fill="#9B4DFF" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="14" letter-spacing="2">
     <text x="75" y="455">WEB</text>
-    <text x="180" y="455">MOBILE</text>
-    <text x="315" y="455">AI</text>
-    <text x="770" y="455">CREATIVE TECHNOLOGY</text>
+    <text x="175" y="455">MOBILE</text>
+    <text x="300" y="455">AI</text>
+    <text x="390" y="455">AUTOMATION</text>
+    <text x="820" y="455">SYSTEM // ONLINE</text>
   </g>
 
   <g fill="#ffffff" opacity="1">
